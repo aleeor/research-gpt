@@ -1,5 +1,5 @@
-openai_api_key: "Open API Key"
-data_directory: "path/to/directory" 
+openai_api_key: "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"
+data_directory: "" 
 data_files_glob: "*.txt"
 webpages:
   - "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope"
